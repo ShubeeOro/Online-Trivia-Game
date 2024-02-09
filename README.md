@@ -16,7 +16,7 @@ Follow these steps to get the trivia game up and running on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/nodejs-trivia-game.git
+   git clone https://github.com/ShubeeOro/Online-Trivia-Game.git
    cd nodejs-trivia-game
    ```
 
@@ -31,6 +31,9 @@ Follow these steps to get the trivia game up and running on your local machine:
    ```
 
    The trivia game will start running on `http://localhost:3000`. Open this URL in your browser to begin playing.
+
+   *You can also use Visual Studio Code's Local Port Forwarding via Microsoft dev tunnels to open the game on the Internet.
+   Open port 3000 and ensure you set Port Visibility to **Public**. Share the created link to play with friends!*
 
 ## How to Play
 
